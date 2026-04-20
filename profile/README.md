@@ -1,4 +1,4 @@
-# 🎓 UNIverse 🪐 — Your Personal University Planner
+# yaup - yet another university planner
 
 ## Wichtige Hinweise für die Entwicklung
 
